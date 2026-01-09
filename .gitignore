@@ -1,0 +1,9 @@
+# ملفات Visual Studio المؤقتة
+.vs/
+Debug/
+Release/
+x64/
+x86/
+*.pdb
+*.obj
+*.exe
